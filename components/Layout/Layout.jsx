@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
     <div className={styles.Layout}>
       <nav>
         <span>
-          <a href="/">My Next.js Blog</a>
+          <a href="/">Hari's Blog</a>
         </span>
         {user && (
           <span>
